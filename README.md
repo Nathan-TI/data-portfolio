@@ -1,30 +1,26 @@
 
-# 📊 Project 1: Ethiopia Market Prices Dashboard
+# Project 1: Ethiopia Market Prices Dashboard
 
-This project analyzes market prices of key commodities (Wheat, Teff, Maize) across major Ethiopian regions over a 6-month period.
+This project analyzes market price trends for key commodities like Teff, Maize, and Wheat across major regions in Ethiopia. The goal was to uncover seasonal and regional price fluctuations and visualize them for easier interpretation.
 
-## 📁 Dataset
-- **File:** `project1_market_prices.csv`
-- **Source:** Simulated data based on public reports (World Bank, CSA)
-- **Fields:** Region, Month, Commodity, Price (ETB/kg)
+## Dataset
+- Simulated based on real public data sources like the World Bank and CSA Ethiopia.
+- Contains price trends from six regions over six months.
 
-## 📈 Key Insights
-- Price variation across regions and commodities
-- Monthly inflation trends by product
-- Regional average comparisons
+## Tools Used
+- Python for data cleaning and trend analysis
+- Tableau Public for interactive dashboard
+- GitHub for documentation and version control
 
-## 📊 Tools Used
-- Python (Pandas, Matplotlib)
-- Tableau Public (for interactive dashboards)
-- GitHub (for version control & collaboration)
+## Key Takeaways
+- Regional disparities exist in commodity pricing
+- Trends align with seasonal patterns and supply fluctuations
 
-## 🔗 Live Dashboard
-> [Coming Soon] Link to Tableau Public dashboard
+## Next Steps
+We plan to incorporate live data from CSA or World Bank APIs, and automate the pipeline. Future enhancements include forecast modeling and inflation adjustment.
 
----
-
-### 👤 Author
-**Nathan Tibebe**  
-Remote Data Analyst | Addis Ababa, Ethiopia  
+## Author
+Nathan Tibebe  
 Email: nathan.tibebe.23@gmail.com  
-GitHub: [github.com/Nathan-TI](https://github.com/Nathan-TI)
+Location: Addis Ababa, Ethiopia  
+GitHub: https://github.com/Nathan-TI
